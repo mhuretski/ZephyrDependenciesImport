@@ -3,3 +3,5 @@ log.txt
 chromedriver.exe
 /out
 /target
+properties.properties
+.gitignore
